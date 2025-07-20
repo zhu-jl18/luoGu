@@ -1,0 +1,1 @@
+{"name":"Luogu - P1049","url":"https://www.luogu.com.cn/problem/P1049","memoryLimit":128000,"timeLimit":1000,"tests":[{"id":1753021749585,"input":"24\n6\n8\n3\n12\n7\n9\n7\n","output":"0\n"},{"id":1753021787666,"input":"5\n1 \n6","output":"5"}],"group":"luogu","srcPath":"d:\\LeetCode\\luoGu\\Luogu_P_1049.py"}

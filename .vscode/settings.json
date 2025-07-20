@@ -1,0 +1,5 @@
+{
+    "luogu.alwaysUseDefaultLanguageVersion": true,
+    "cph.general.defaultLanguage": "python",
+    "cph.general.defaultLanguageTemplateFileLocation": "D:\\LeetCode\\luoGu\\template_luogu.py"
+}
