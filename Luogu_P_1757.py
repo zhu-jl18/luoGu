@@ -2,6 +2,7 @@ from typing import List
 from functools import lru_cache
 
 
+# test for font
 def solve():
     m, n = map(int, input().split())
     Q = [[0] for _ in range(101)]  # Group numbers up to 100
